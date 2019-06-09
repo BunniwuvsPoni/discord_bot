@@ -340,4 +340,4 @@ ASALocalRun/
 healthchecksdb
 
 # Discord authentication token
-bot/auth.json
+bot/*

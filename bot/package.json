@@ -1,0 +1,8 @@
+{
+  "name": "response-bot",
+  "version": "1.0.0",
+  "description": "This bot happily responds to those whom are responseless.",
+  "main": "bot.js",
+  "author": "bunni",
+  "dependencies": {}
+}

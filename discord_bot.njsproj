@@ -30,6 +30,9 @@
   <ItemGroup>
     <Content Include="app.js" />
     <Content Include="bot\auth.json" />
+    <Content Include="bot\fake.txt">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="package.json" />
     <Content Include="README.md" />
   </ItemGroup>

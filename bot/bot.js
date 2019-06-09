@@ -57,6 +57,3 @@ bot.on('message', function (user, userID, channelID, message, evt) {
         }
     }
 });
-
-// Debugging printout
-console.log("End of file reached.");

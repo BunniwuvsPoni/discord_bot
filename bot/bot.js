@@ -38,11 +38,20 @@ bot.on('message', function (user, userID, channelID, message, evt) {
                 });
                 break;
             // Just add any case commands if you want to..
+
             // !hello
             case 'hello':
                 bot.sendMessage({
                     to: channelID,
                     message: 'Hi there!'
+                });
+                break;
+
+            // !bunni
+            case 'bunni':
+                bot.sendMessage({
+                    to: channelID,
+                    message: 'wuvs poni!'
                 });
                 break;
         }
